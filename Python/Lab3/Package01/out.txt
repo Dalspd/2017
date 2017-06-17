@@ -1,0 +1,2 @@
+('101', 'Taylor Swift', 'F', 28, 'Love Story')
+('103', 'Adele', 'F', 29, 'Rolling in the Deep')
